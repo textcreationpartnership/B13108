@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation to forbid the importing, buying, selling, or publishing any forraine edition of a booke lately printed at London by His Maiesties command, intituled Mare Clausum.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13108</idno><idno type="EEBO-CITATION">99892625</idno>
+  <idno type="VID">185781</idno>
+  <idno type="EEBO-PROQUEST">2248563711</idno>
+  
+            <idno type="STC">STC 9060</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[54]</idno>
+            <idno type="STC">ESTC S123793</idno>
+            <idno type="PROQUEST">ocm99892625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892625e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185781)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation to forbid the importing, buying, selling, or publishing any forraine edition of a booke lately printed at London by His Maiesties command, intituled Mare Clausum.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: VVestminster, the fifteenth day of April, in the twelfth yeere of our reigne. ...</note>
+                  <note>Arms 21; Steele notation: print Our Royall.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Selden, John, 1584-1654. --  Mare Clausum</term>
+               <term type="topical_term">Publishers and publishing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185781:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation to forbid the Importing, Buying, Selling, or Publishing any forraine Edition of a Booke lately printed at <hi>London</hi> by His Maiesties Command, Intituled MARE CLAVSVM.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas there was heretofore by Our expresse command published in print</hi> a Booke, intituled <hi>Mare Clausum, seu de Dominio Maris,</hi> for the manifesting of the right and dominion of Vs and Our Royall Progenitors, in the Seas which incompasse these Our Realmes and Dominions of great <hi>Brittaine</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> And whereas since the publishing thereof, some persons, not well af<g ref="char:EOLhyphen"/>fected to Vs and Our proceedings, haue caused the same Booke to be printed in some place beyond the Seas, and to the same impression haue added some other things, as if they were parts of that which was first printed here by Our Command, and haue falsly put the name of Our Citie of <hi>London</hi> in the Title Page for the place of the Impression, and haue also therein made reference to the first Edition of the same Booke, as if the said forraine Impression had beene done in Our said Citie, and also as if those other things which are added, had beene likewise a part of the said first Edition so <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmanded by Vs, or added to the same by Our allowance. And whereas also very many Books of the said forraine Edition haue of late beene secretly brought into this Our Realme of <hi>England,</hi> and there offered to sale by some Tradesmen, for whose speedy and seuere punishment, as also for the suppressing the said Books of the said forraine Edition so imported, We haue already giuen strict <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmand: We haue by the aduice of the Lords of Our Priuie Councell thought fit to declare, And hereby do declare Our expresse Will and Pleasure to be, That from henceforth no person or persons whatsoeuer doe or shall import, publish, put to sale, or in any kinde buy, sell, exchange, or <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sperse in any of Our Realmes or Dominions, any of the said Books of the said forraine Edi<g ref="char:EOLhyphen"/>tion: And also that for the more safe preuention of the like offence in the future, From henceforth no person or persons whatsoeuer doe or shall at any time import, publish, put to sale, or in any <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inde buy, sell, exchange or disperse, in any of Our Realmes or Dominions any Bookes or Co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es of any Edition of the said Booke called <hi>Mare Clausum,</hi> either in Latine or English, except only <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f such Editions as haue beene or shall be thereof had or done within our Realmes or Domini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, and by such authoritie or licence as by the Lawes and Customes of Our said Realmes and Dominions is respectiuely requisite, vpon paine of Our high Displeasure and indignation, and of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch further punishment as by the Lawes of this Our Realme and by Our Prerogatiue Royall may be inflicted vpon Offendors against Our Royall Declaration and Command.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Palace of VVestminster, </hi>
+                  <date>
+                     <hi>the fifteenth day of April, in the twelfth yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>¶ <hi>God saue the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings most Excellent Maiestie: And by the Assignes of IOHN BILL, 1636.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
